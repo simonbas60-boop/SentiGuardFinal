@@ -1,0 +1,172 @@
+[
+    {
+        "time": "2026-08-25 14:05:27",
+        "alert": "High Crowd Density Detected",
+        "people": 0,
+        "action": "Density 59.0% | High | Crowded",
+        "risk": "High",
+        "image": "snapshots/density_4a747f7d_2026_08_25_14_05_27_443713.jpg",
+        "source": "Crowd Density Detection: 15149844_1920_1080_30fps.mp4",
+        "id": 1787643327443
+    },
+    {
+        "time": "2026-08-25 14:05:33",
+        "alert": "Critical Crowd Density Detected",
+        "people": 0,
+        "action": "Density 77.1% | Critical | Heavy Crowd",
+        "risk": "Critical",
+        "image": "snapshots/density_4a747f7d_2026_08_25_14_05_33_305437.jpg",
+        "source": "Crowd Density Detection: 15149844_1920_1080_30fps.mp4",
+        "id": 1787643333312
+    },
+    {
+        "time": "2026-08-25 14:06:34",
+        "alert": "High Crowd Density Detected",
+        "people": 0,
+        "action": "Density 55.8% | High | Crowded",
+        "risk": "High",
+        "image": "snapshots/density_5edd4105_2026_08_25_14_06_34_352457.jpg",
+        "source": "Crowd Density Detection: 15765037_1440_2560_30fps.mp4",
+        "id": 1787643394368
+    },
+    {
+        "time": "2026-08-25 14:13:27",
+        "alert": "Head Count Limit Reached",
+        "people": 53,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_18416e42_2026_08_25_14_13_27_060140.jpg",
+        "source": "Head Count Detection",
+        "id": 1787643807069
+    },
+    {
+        "time": "2026-08-25 14:13:47",
+        "alert": "Head Count Limit Reached",
+        "people": 52,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_18416e42_2026_08_25_14_13_47_384823.jpg",
+        "source": "Head Count Detection",
+        "id": 1787643827384
+    },
+    {
+        "time": "2026-08-25 14:17:16",
+        "alert": "Head Count Limit Reached",
+        "people": 42,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_f9e47d53_2026_08_25_14_17_16_250434.jpg",
+        "source": "Head Count Detection",
+        "id": 1787644036250
+    },
+    {
+        "time": "2026-08-25 14:17:36",
+        "alert": "Head Count Limit Reached",
+        "people": 49,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_f9e47d53_2026_08_25_14_17_36_668931.jpg",
+        "source": "Head Count Detection",
+        "id": 1787644056682
+    },
+    {
+        "time": "2026-08-25 14:17:56",
+        "alert": "Head Count Limit Reached",
+        "people": 52,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_f9e47d53_2026_08_25_14_17_56_926722.jpg",
+        "source": "Head Count Detection",
+        "id": 1787644076933
+    },
+    {
+        "time": "2026-09-28 13:08:41",
+        "alert": "High Crowd Density Detected",
+        "people": 0,
+        "action": "Density 58.6% | High | Crowded",
+        "risk": "High",
+        "image": "snapshots/density_1fb692b8_2026_09_28_13_08_41_331984.jpg",
+        "source": "Crowd Density Detection: 15252488_1080_1920_30fps.mp4",
+        "id": 1790577521347
+    },
+    {
+        "time": "2026-09-28 13:09:04",
+        "alert": "High Crowd Density Detected",
+        "people": 0,
+        "action": "Density 57.0% | High | Crowded",
+        "risk": "High",
+        "image": "snapshots/density_1fb692b8_2026_09_28_13_09_04_738264.jpg",
+        "source": "Crowd Density Detection: 15252488_1080_1920_30fps.mp4",
+        "id": 1790577544753
+    },
+    {
+        "time": "2026-09-28 13:09:20",
+        "alert": "Critical Crowd Density Detected",
+        "people": 0,
+        "action": "Density 76.8% | Critical | Heavy Crowd",
+        "risk": "Critical",
+        "image": "snapshots/density_1fb692b8_2026_09_28_13_09_20_419166.jpg",
+        "source": "Crowd Density Detection: 15252488_1080_1920_30fps.mp4",
+        "id": 1790577560434
+    },
+    {
+        "time": "2026-09-28 13:25:19",
+        "alert": "High Crowd Density Detected",
+        "people": 0,
+        "action": "Density 55.4% | High | Crowded",
+        "risk": "High",
+        "image": "snapshots/density_bb755e1e_2026_09_28_13_25_19_572528.jpg",
+        "source": "Crowd Density Detection: istockphoto-486496128-640_adpp_is.mp4",
+        "id": 1790578519572
+    },
+    {
+        "time": "2026-09-28 13:26:35",
+        "alert": "Head Count Limit Reached",
+        "people": 42,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_07935f5e_2026_09_28_13_26_35_186407.jpg",
+        "source": "Head Count Detection",
+        "id": 1790578595202
+    },
+    {
+        "time": "2026-09-28 13:26:55",
+        "alert": "Head Count Limit Reached",
+        "people": 47,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_07935f5e_2026_09_28_13_26_55_246821.jpg",
+        "source": "Head Count Detection",
+        "id": 1790578615259
+    },
+    {
+        "time": "2026-09-28 13:27:16",
+        "alert": "Head Count Limit Reached",
+        "people": 50,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_07935f5e_2026_09_28_13_27_16_108103.jpg",
+        "source": "Head Count Detection",
+        "id": 1790578636115
+    },
+    {
+        "time": "2026-09-28 13:27:36",
+        "alert": "Head Count Limit Reached",
+        "people": 60,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_07935f5e_2026_09_28_13_27_36_858674.jpg",
+        "source": "Head Count Detection",
+        "id": 1790578656868
+    },
+    {
+        "time": "2026-09-28 13:27:57",
+        "alert": "Head Count Limit Reached",
+        "people": 61,
+        "action": "Head Count Only",
+        "risk": "Danger",
+        "image": "snapshots/head_count_07935f5e_2026_09_28_13_27_57_148172.jpg",
+        "source": "Head Count Detection",
+        "id": 1790578677179
+    }
+]
